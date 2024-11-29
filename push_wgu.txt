@@ -1,5 +1,3 @@
 This is simple coding challenge wgu
 
 simple edit for viewing
-
-changes to revert 
